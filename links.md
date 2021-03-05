@@ -1,2 +1,5 @@
 # http://www.gameaipro.com/
-## books about game ai
+Books about game ai
+
+# The Algorithms (in C++)
+https://github.com/TheAlgorithms/C-Plus-Plus
