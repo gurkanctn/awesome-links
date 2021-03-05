@@ -2,13 +2,6 @@ This repository contains a list of links that lead to free content in several to
 
 Feel free to submit a Pull Request with other amazing (awesome) links.
 
-# Video handling
-## Vireo
-https://github.com/twitter/vireo/
-
-## OpenH264
-https://github.com/cisco/openh264
-
 # Programming, Game development and AI
 ## http://www.gameaipro.com/
 Books about game ai
@@ -18,6 +11,17 @@ https://github.com/TheAlgorithms/C-Plus-Plus
 
 ## Free for Developers
 https://free-for.dev/#/
+
+
+# Video handling
+## Vireo
+https://github.com/twitter/vireo/
+
+## OpenH264
+https://github.com/cisco/openh264
+
+## libde265
+https://github.com/strukturag/libde265
 
 
 ### credits for the initial version: Discord server (OneLoneCoder), channel #cool-links
