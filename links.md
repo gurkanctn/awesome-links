@@ -19,6 +19,9 @@ https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
 ## Google C++ Style Guide
 https://google.github.io/styleguide/cppguide.html
 
+## GNU Coding Standards
+http://www.gnu.org/prep/standards/standards.html
+
 # Video handling
 ## Vireo
 https://github.com/twitter/vireo/
