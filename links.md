@@ -13,6 +13,12 @@ https://github.com/TheAlgorithms/C-Plus-Plus
 https://free-for.dev/#/
 
 
+## Cpp Core Guidelines
+https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+
+## Google C++ Style Guideline
+https://google.github.io/styleguide/cppguide.html
+
 # Video handling
 ## Vireo
 https://github.com/twitter/vireo/
