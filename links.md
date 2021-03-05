@@ -2,14 +2,22 @@ This repository contains a list of links that lead to free content in several to
 
 Feel free to submit a Pull Request with other amazing (awesome) links.
 
-# http://www.gameaipro.com/
+# Video handling
+## Vireo
+https://github.com/twitter/vireo/
+
+## OpenH264
+https://github.com/cisco/openh264
+
+# Programming, Game development and AI
+## http://www.gameaipro.com/
 Books about game ai
 
-# The Algorithms (in C++)
+## The Algorithms (in C++)
 https://github.com/TheAlgorithms/C-Plus-Plus
 
-# Free for Developers
+## Free for Developers
 https://free-for.dev/#/
 
 
-## credits for the initial version: Discord server (OneLoneCoder), channel #cool-links
+### credits for the initial version: Discord server (OneLoneCoder), channel #cool-links
