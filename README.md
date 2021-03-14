@@ -37,6 +37,6 @@ https://github.com/strukturag/libde265
 https://www.cs.cmu.edu/~quake/triangle.html
 
 
-### credits for the initial version: Discord server (OneLoneCoder), channel #cool-links
+### [i] credits for the initial version: Discord server (OneLoneCoder), channel #cool-links
 
 
