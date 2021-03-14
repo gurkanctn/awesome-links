@@ -33,5 +33,10 @@ https://github.com/cisco/openh264
 ## libde265
 https://github.com/strukturag/libde265
 
+## Triangle: A Two-Dimensional Quality Mesh Generator and Delaunay Triangulator.
+https://www.cs.cmu.edu/~quake/triangle.html
+
 
 ### credits for the initial version: Discord server (OneLoneCoder), channel #cool-links
+
+
