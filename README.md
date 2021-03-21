@@ -36,6 +36,8 @@ https://github.com/strukturag/libde265
 ## Triangle: A Two-Dimensional Quality Mesh Generator and Delaunay Triangulator.
 https://www.cs.cmu.edu/~quake/triangle.html
 
+##Ray Tracing
+https://raytracing.github.io/
 
 ### [i] credits for the initial version: Discord server (OneLoneCoder), channel #cool-links
 
