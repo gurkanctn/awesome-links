@@ -39,6 +39,9 @@ https://www.cs.cmu.edu/~quake/triangle.html
 ## Ray Tracing
 https://raytracing.github.io/
 
-### [i] credits for the initial version: Discord server (OneLoneCoder), channel #cool-links
+### [Note] Several of the links on this page are from the OneLoneCoder Discord Server (#cool-links)
 
+---------------------------------------
+## Single Header Libraries in various topics
+https://github.com/nothings/single_file_libs
 
