@@ -39,6 +39,9 @@ https://www.cs.cmu.edu/~quake/triangle.html
 ## Ray Tracing
 https://raytracing.github.io/
 
+## 3d Math Primer for Graphics and Game Programming [BOOK]
+https://gamemath.com/book/intro.html
+
 ### [Note] Several of the links on this page are from the OneLoneCoder Discord Server (#cool-links)
 
 ---------------------------------------
