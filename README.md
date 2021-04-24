@@ -34,3 +34,9 @@ Ray Tracing | https://raytracing.github.io/ |
 ## Single Header Libraries in various topics
 https://github.com/nothings/single_file_libs
 
+## Inspiring and Impressive Stuff - uncategorized
+Title | Link | Remarks
+------|------|--------
+CNOVR | https://www.youtube.com/watch?v=a2DjjG9wVY0 | Inspiring video about a VR tool that compiles and runs code at RUNTIME
+Bret Victor, The Future of Programming | https://www.youtube.com/watch?v=8pTEmbeENF4 | Why can't we do stuff like in the 60s? 
+
