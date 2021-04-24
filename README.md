@@ -1,7 +1,7 @@
 # awesome-links
 This repository contains a list of links that lead to free content in several topics.
 
-Feel free to submit a Pull Request with other amazing (awesome) links.
+Feel free to submit a Pull Request with other *awesome* links.
 
 # Programming, Game development and AI
 ## http://www.gameaipro.com/
