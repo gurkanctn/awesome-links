@@ -27,6 +27,7 @@ Title | Link | Remarks
 Triangle | https://www.cs.cmu.edu/~quake/triangle.html | A Two-Dimensional Quality Mesh Generator and Delaunay Triangulator
 Ray Tracing | https://raytracing.github.io/ |
 3d Math Primer for Graphics and Game Programming | https://gamemath.com/book/intro.html | Book
+olcPixelGameEngine | https://github.com/onelonecoder | One Lone Coder Pixel Game Engine
 
 ### [Note] Several of the links on this page are from the OneLoneCoder Discord Server (#cool-links)
 
