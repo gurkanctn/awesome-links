@@ -3,16 +3,20 @@ This repository contains a list of links that lead to free content in several to
 
 Feel free to submit a Pull Request with other *awesome* links.
 # Programming, Game development and AI
-
 Title | Link | Remarks
 ------|------|--------
 Build Your Own X | https://github.com/danistefanovic/build-your-own-x | Catalog of links to several Build-Your-Own-whatever 
-Game AI Pro | http://www.gameaipro.com/ | Books about game ai
 The Algorithms (in C++)| https://github.com/TheAlgorithms/C-Plus-Plus | Several algorithms
 Free for Developers | https://free-for.dev/#/ | Free stuff for developers
 Cpp Core Guidelines | https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md | 
 Google C++ Style Guide | https://google.github.io/styleguide/cppguide.html | Google
 GNU Coding Standards | http://www.gnu.org/prep/standards/standards.html | GNU
+
+# Artificial Intelligence
+Title | Link | Remarks
+------|------|--------
+Deep Reinforcement Learning collection | https://wiki.pathmind.com/deep-reinforcement-learning | Intro and several links
+Game AI Pro | http://www.gameaipro.com/ | Books about game ai
 
 # Video handling
 Title | Link | Remarks
