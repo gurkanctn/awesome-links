@@ -39,6 +39,12 @@ olcPixelGameEngine | https://github.com/onelonecoder | One Lone Coder Pixel Game
 ## Single Header Libraries in various topics
 https://github.com/nothings/single_file_libs
 
+## World Model Data
+Title | Link | Remarks
+------|------|--------
+OpenTopography | https://opentopography.org/developers | You can use various World geographic data bases for your own applications
+JAXA | https://www.eorc.jaxa.jp/ALOS/en/index_e.htm | Who doesn't love the Japanese, they are giving away the World 3D Model for free to everyone.
+
 ## Inspiring and Impressive Stuff - uncategorized
 Title | Link | Remarks
 ------|------|--------
