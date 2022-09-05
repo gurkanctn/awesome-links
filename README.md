@@ -35,6 +35,24 @@ olcPixelGameEngine | https://github.com/onelonecoder | One Lone Coder Pixel Game
 
 ### [Note] Several of the links on this page are from the OneLoneCoder Discord Server (#cool-links)
 
+# Uncategorized
+Title | Link | Remarks
+------|------|--------
+--|http://wiki.ros.org/|--
+GSL - GNU Scientific Library|https://www.gnu.org/software/gsl/ | GSL - GNU Scientific Library
+GNU Coding Standards|https://www.gnu.org/prep/standards/standards.html | GNU Coding Standards
+--|https://github.com/fffaraz/awesome-cpp/blob/master/books.md | books
+tensor flow|https://github.com/tensorflow/tensorflow | tensor flow
+Compute|https://github.com/boostorg/compute | A C++ GPU Computing Library for OpenCL
+Modern GPU|https://github.com/moderngpu/moderngpu  | Patterns and behaviors for GPU computing
+OpenCL|https://www.khronos.org/opencl/  | The open standard for parallel programming of heterogeneous systems
+Grit Game Engine|http://www.gritengine.com/ | a free game engine 
+Godot Game Engine|https://github.com/godotengine/godot  | Godot Engine – Multi-platform 2D and 3D game engine 
+Torque3D Game Engine|https://github.com/GarageGames/Torque3D | Open Source version of Torque 3D from GarageGames 
+Panda3D Game Engine|http://www.panda3d.org/ | another game engine
+OGRE3D Rendering Engine|http://www.ogre3d.org/ | open-source graphics rendering engine
+OpenCV|http://opencv.org/ | Open Source Computer Vision Library
+
 ---------------------------------------
 ## Single Header Libraries in various topics
 https://github.com/nothings/single_file_libs
